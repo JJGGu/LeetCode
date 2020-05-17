@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddTwoNumbers_2/AddTwoNumbers_2.iml" filepath="$PROJECT_DIR$/AddTwoNumbers_2/AddTwoNumbers_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapacityToShipPackagesWithin_D_Days_1011/CapacityToShipPackagesWithin_D_Days_1011.iml" filepath="$PROJECT_DIR$/CapacityToShipPackagesWithin_D_Days_1011/CapacityToShipPackagesWithin_D_Days_1011.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstring_3/LongestSubstring_3.iml" filepath="$PROJECT_DIR$/LongestSubstring_3/LongestSubstring_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/MedianofTwoSortedArrays_4/MedianofTwoSortedArrays_4.iml" filepath="$PROJECT_DIR$/MedianofTwoSortedArrays_4/MedianofTwoSortedArrays_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.iml" filepath="$PROJECT_DIR$/Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoSum_1/TwoSum_1.iml" filepath="$PROJECT_DIR$/TwoSum_1/TwoSum_1.iml" />
     </modules>
   </component>
